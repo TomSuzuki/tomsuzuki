@@ -8,23 +8,13 @@
 </div>
 <hr>
 <div align="center" style="margin: 1.5em;">
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-  <img width="64px" style="margin: 1em;" src="./img/01.gif" />
-  <img width="64px" style="margin: 1em;" src="./img/02.gif" />
-  <img width="64px" style="margin: 1em;" src="./img/03.gif" />
-  <img width="64px" style="margin: 1em;" src="./img/04.gif" />
-</div>
-=======
-=======
->>>>>>> Stashed changes
   <img width="64px" src="./img/01.gif" />
+  <img width="64px" src="./img/margin.gif" />
   <img width="64px" src="./img/02.gif" />
+  <img width="64px" src="./img/margin.gif" />
   <img width="64px" src="./img/03.gif" />
+  <img width="64px" src="./img/margin.gif" />
   <img width="64px" src="./img/04.gif" />
-<<<<<<< Updated upstream
 </div>
->>>>>>> Stashed changes
-=======
-</div>
->>>>>>> Stashed changes
+
+
