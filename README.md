@@ -6,8 +6,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsuzuki&layout=compact">
   </a>
 </div>
-<hr>
-<div align="center" style="margin: 1.5em;">
+<br>
+
+#### GIFアニメーション（テスト）
+
+<div align="left" style="margin: 1.5em;">
   <img width="64px" src="./img/01.gif" />
   <img src="./img/margin.gif" />
   <img width="64px" src="./img/02.gif" />
@@ -17,4 +20,9 @@
   <img width="64px" src="./img/04.gif" />
 </div>
 
+> 過去に作ったやつを。  
 
+#### リンク
+- [💬 GitHub Gist](https://gist.github.com/TomSuzuki)
+- [💙 好きな色 | Color Pallet](https://tomsuzuki.github.io/ColorPalette/)
+- [🍣 WebSite](https://tomsuzuki.github.io/portfolio/)
