@@ -6,3 +6,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsuzuki&layout=compact">
   </a>
 </div>
+
+<div align="center" style="margin: 1.5em;">
+  <img width="64px" style="margin: 1em;" src="./img/01.gif" />
+  <img width="64px" style="margin: 1em;" src="./img/02.gif" />
+  <img width="64px" style="margin: 1em;" src="./img/03.gif" />
+  <img width="64px" style="margin: 1em;" src="./img/04.gif" />
+</div>
