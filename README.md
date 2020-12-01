@@ -8,7 +8,7 @@
 </div>
 <br>
 
-#### GIFアニメーション（テスト）
+#### GIFアニメーション
 
 <div align="left" style="margin: 1.5em;">
   <img width="64px" src="./img/01.gif" />
@@ -20,7 +20,7 @@
   <img width="64px" src="./img/04.gif" />
 </div>
 
-> 過去に作ったやつを。  
+> 過去に作ったやつをてきとーに。  
 
 #### リンク
 - [💬 GitHub Gist](https://gist.github.com/TomSuzuki)
