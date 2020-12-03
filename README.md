@@ -16,9 +16,9 @@
   </a>
 </div>
 
-<img src="https://github.com/TomSuzuki/tomsuzuki/blob/master/images/stat.svg" alt="Alternative Text"/>
-
 <br>
+
+<img src="https://github.com/TomSuzuki/tomsuzuki/blob/master/images/stat.svg" alt="Alternative Text"/>
 
 #### GIFアニメーション
 
