@@ -16,6 +16,7 @@
   </a>
 </div>
 
+<img src="https://github.com/TomSuzuki/tomsuzuki/blob/master/images/stat.svg" alt="Alternative Text"/>
 
 <br>
 
