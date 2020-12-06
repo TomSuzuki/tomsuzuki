@@ -14,11 +14,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsuzuki&layout=compact">
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomSuzuki">
+  </a>
 </div>
 
 <br>
 
-<img src="https://github.com/TomSuzuki/tomsuzuki/blob/master/images/stat.svg" alt="Alternative Text"/>
+<!-- <img src="https://github.com/TomSuzuki/tomsuzuki/blob/master/images/stat.svg" alt="Alternative Text"/> -->
 
 #### GIFアニメーション
 
