@@ -1,9 +1,3 @@
-<style>
-.Box-body {
-    background-color: #222222;
-}
-</style>
-
 <p align="left"> 
   <a href="http://twitter.com/0x0553">
     <img height="20" src="https://img.shields.io/twitter/follow/0x0553?label=Twitter-Followers&logo=twitter&style=flat" />
