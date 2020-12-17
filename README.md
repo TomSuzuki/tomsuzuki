@@ -26,9 +26,9 @@
 #### GIFアニメーション
 
 <div align="left" style="margin: 1.5em;">
-  <img height="180px" src="./img/10.gif" />
+  <img height="140px" src="./img/10.gif" />
   <img src="./img/margin.gif" />
-  <img height="180px" src="./img/11.gif" />
+  <img height="140px" src="./img/11.gif" />
   <br><br>
   <img width="64px" src="./img/01.gif" />
   <img src="./img/margin.gif" />
