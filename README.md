@@ -23,7 +23,7 @@
 
 <!-- <img src="https://github.com/TomSuzuki/tomsuzuki/blob/master/images/stat.svg" alt="Alternative Text"/> -->
 
-#### GIFアニメーション
+#### game.gif
 
 <div align="left" style="margin: 1.5em;">
   <img width="180px" style="width:180px; max-width:45%;" src="./img/10.gif" />
@@ -37,11 +37,10 @@
   <img width="64px" src="./img/03.gif" />
   <img src="./img/margin.gif" />
   <img width="64px" src="./img/04.gif" />
-</div>
+</div> 
 
-> 過去に作ったやつをてきとーに。  
-
-#### リンク
+#### link
 - [💬 GitHub Gist](https://gist.github.com/TomSuzuki)
-- [💙 好きな色 | Color Pallet](https://tomsuzuki.github.io/ColorPalette/)
+- [💙 Color Pallet](https://tomsuzuki.github.io/ColorPalette/)
 - [🍣 WebSite](https://tomsuzuki.github.io/portfolio/)
+- [📝 Today I Learned](https://tomsuzuki.github.io/til/)
