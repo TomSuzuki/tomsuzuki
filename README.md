@@ -7,15 +7,17 @@
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tomsuzuki&count_private=true&show_icons=true&hide_border=0" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tomsuzuki&count_private=true&show_icons=true&hide_border=0&bg_color=F6F6F6&text_color=444444&title_color=333333&icon_color=111111&langs_count=10" />
   </a>
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsuzuki&layout=compact&hide_border=0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsuzuki&layout=compact&hide_border=0&bg_color=F6F6F6&text_color=444444&title_color=333333&icon_color=111111&langs_count=10">
   </a>
+  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomSuzuki&layout=compact&hide_border=0">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomSuzuki&layout=compact&hide_border=0&bg_color=F6F6F6&text_color=444444&title_color=333333&icon_color=111111&langs_count=10">
   </a>
 </div>
 
