@@ -26,21 +26,15 @@
 #### game.gif
 
 <div align="left" style="margin: 1.5em;">
-  <img width="160px" height="120px" src="./img/10.gif" />
-  <img src="./img/margin.gif" />
-  <img width="160px" height="120px" src="./img/11.gif" />
-  <img src="./img/margin.gif" />
-  <img width="160px" height="120px" src="./img/12.gif" />
-  <img src="./img/margin.gif" />
-  <img width="160px" height="120px" src="./img/13.gif" />
+  <img width="80px" height="60px" src="./img/10.gif" />
+  <img width="80px" height="60px" src="./img/11.gif" />
+  <img width="80px" height="60px" src="./img/12.gif" />
+  <img width="80px" height="60px" src="./img/13.gif" />
   <br><br>
-  <img width="64px" src="./img/01.gif" />
-  <img src="./img/margin.gif" />
-  <img width="64px" src="./img/02.gif" />
-  <img src="./img/margin.gif" />
-  <img width="64px" src="./img/03.gif" />
-  <img src="./img/margin.gif" />
-  <img width="64px" src="./img/04.gif" />
+  <img width="32px" src="./img/01.gif" />
+  <img width="32px" src="./img/02.gif" />
+  <img width="32px" src="./img/03.gif" />
+  <img width="32px" src="./img/04.gif" />
 </div> 
 
 #### link
