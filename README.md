@@ -9,13 +9,13 @@
 
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tomsuzuki&count_private=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tomsuzuki&count_private=true&show_icons=true&hide_border=0" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsuzuki&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsuzuki&layout=compact&hide_border=0">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomSuzuki&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomSuzuki&layout=compact&hide_border=0">
   </a>
 </div>
 
