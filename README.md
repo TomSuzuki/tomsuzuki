@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=tomsuzuki&count_private=true&show_icons=true&hide_border=0" />
   </a>
