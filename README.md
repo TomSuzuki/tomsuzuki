@@ -38,7 +38,8 @@
 </div> 
 
 #### link
+- [🍣 WebSite](https://tomsuzuki.github.io/portfolio/)
 - [💬 GitHub Gist](https://gist.github.com/TomSuzuki)
 - [💙 Color Pallet](https://tomsuzuki.github.io/ColorPalette/)
-- [🍣 WebSite](https://tomsuzuki.github.io/portfolio/)
 - [📝 Today I Learned](https://tomsuzuki.github.io/til/)
+- [🎮 To Do List](https://github.com/TomSuzuki/human-life)
