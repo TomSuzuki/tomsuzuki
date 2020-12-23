@@ -5,6 +5,9 @@
   <a href="https://github.com/TomSuzuki">
     <img height="20" src="https://img.shields.io/github/followers/TomSuzuki?label=followers&logo=github&style=flat" />
   </a>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img height="20" src="https://komarev.com/ghpvc/?username=TomSuzuki" />
+  </a>
 </p>
 
 <div align="left">
