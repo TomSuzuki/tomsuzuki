@@ -1,12 +1,12 @@
 <p align="left"> 
   <a href="http://twitter.com/0x0553">
-    <img height="20" src="https://img.shields.io/twitter/follow/0x0553?label=followers&logo=twitter&style=flat" />
+    <img src="https://img.shields.io/twitter/follow/0x0553?label=followers&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/TomSuzuki">
-    <img height="20" src="https://img.shields.io/github/followers/TomSuzuki?label=followers&logo=github&style=flat" />
+    <img src="https://img.shields.io/github/followers/TomSuzuki?label=followers&logo=github&style=flat" />
   </a>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img height="20" src="https://komarev.com/ghpvc/?username=TomSuzuki" />
+    <img src="https://komarev.com/ghpvc/?username=TomSuzuki" />
   </a>
 </p>
 
