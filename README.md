@@ -26,19 +26,22 @@
 
 <!-- <img src="https://github.com/TomSuzuki/tomsuzuki/blob/master/images/stat.svg" alt="Alternative Text"/> -->
 
-#### game.gif
+#### gif animation
 
 <div align="left" style="margin: 1.5em;">
-  <img width="80px" height="60px" src="./img/10.gif" />
-  <img width="80px" height="60px" src="./img/11.gif" />
-  <img width="80px" height="60px" src="./img/12.gif" />
+  <img height="60px" src="./img/10.gif" />
+  <img height="60px" src="./img/11.gif" />
+  <img height="60px" src="./img/12.gif" />
   <!-- <img width="80px" height="60px" src="./img/13.gif" /> -->
+  <img height="60px" src="./img/14.gif" />
+  <img height="60px" src="./img/15.gif" />
   <br>
   <img width="32px" src="./img/01.gif" />
   <img width="32px" src="./img/02.gif" />
   <img width="32px" src="./img/03.gif" />
   <img width="32px" src="./img/04.gif" />
 </div> 
+
 
 #### link
 - [🍣 WebSite](https://tomsuzuki.github.io/)
