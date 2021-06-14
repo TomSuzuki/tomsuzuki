@@ -15,7 +15,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=tomsuzuki&count_private=true&show_icons=true&hide_border=false&line_height=24&title_color=00B4E6&icon_color=00B4E6">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsuzuki&hide_border=false&langs_count=8&layout=compact&title_color=00B4E6">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsuzuki&line_height=24&hide_border=false&langs_count=8&layout=compact&title_color=00B4E6">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomSuzuki&layout=compact&hide_border=false&title_color=00B4E6">
