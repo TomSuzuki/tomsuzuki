@@ -33,7 +33,7 @@
   <img width="80px" height="60px" src="./img/11.gif" />
   <img width="80px" height="60px" src="./img/12.gif" />
   <!-- <img width="80px" height="60px" src="./img/13.gif" /> -->
-  <br><br>
+  <br>
   <img width="32px" src="./img/01.gif" />
   <img width="32px" src="./img/02.gif" />
   <img width="32px" src="./img/03.gif" />
