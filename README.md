@@ -12,13 +12,13 @@
 
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=tomsuzuki&count_private=true&show_icons=true&hide_border=false&line_height=24&title_color=00B4E6&icon_color=00B4E6&border_color=EAEAEA&bg_color=FEFEFE&include_all_commits=true">
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=tomsuzuki&count_private=true&show_icons=true&hide_border=false&line_height=24&title_color=00B4E6&icon_color=00B4E6&border_color=EAEAEA&bg_color=FEFEFE&include_all_commits=true&hide_border=false">
+  </a><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsuzuki&line_height=28&hide_border=false&langs_count=8&layout=compact&title_color=00B4E6&border_color=EAEAEA&bg_color=FEFEFE">
-  </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomsuzuki&line_height=28&hide_border=false&langs_count=10&layout=compact&title_color=00B4E6&border_color=EAEAEA&bg_color=FEFEFE&hide_border=false">
+  </a><br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomSuzuki&line_height=28&layout=compact&hide_border=false&title_color=00B4E6&border_color=EAEAEA&bg_color=FEFEFE">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomSuzuki&line_height=28&layout=compact&hide_border=false&title_color=00B4E6&border_color=EAEAEA&bg_color=FEFEFE&hide_border=false">
   </a>
 </div>
 
