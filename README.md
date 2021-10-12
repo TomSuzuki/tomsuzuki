@@ -8,6 +8,7 @@
   <!-- <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=TomSuzuki" />
   </a> -->
+  <a href="https://wakatime.com/@bc3572d1-984e-4af6-bb01-4f92fa48ca0a"><img src="https://wakatime.com/badge/user/bc3572d1-984e-4af6-bb01-4f92fa48ca0a.svg" alt="Total time coded since Dec 2 2020" /></a>
 </p>
 
 <div align="left">
