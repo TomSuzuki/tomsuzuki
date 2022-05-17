@@ -38,7 +38,7 @@
   <img height="80px" src="./img/15.gif" />
   <br>
   <img height="48px" src="./img/01.gif" />
-  <img height="48px" src="./img/02.gif" />
+  <!-- <img height="48px" src="./img/02.gif" /> -->
   <img height="48px" src="./img/03.gif" />
   <img height="48px" src="./img/04.gif" />
 </div> 
