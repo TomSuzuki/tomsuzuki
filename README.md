@@ -1,7 +1,9 @@
 <p align="left"> 
+  <!--
   <a href="http://twitter.com/0x0553">
     <img src="https://img.shields.io/twitter/follow/0x0553?label=followers&logo=twitter&style=flat" />
   </a>
+-->
   <a href="https://github.com/TomSuzuki">
     <img src="https://img.shields.io/github/followers/TomSuzuki?label=followers&logo=github&style=flat" />
   </a>
