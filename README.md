@@ -47,8 +47,8 @@
   <img height="80px" src="./img/11.gif" />
   <img height="80px" src="./img/12.gif" />
   <img height="80px" src="./img/13.gif" />
-  <img height="80px" src="./img/14.gif" />
-  <img height="80px" src="./img/15.gif" />
+  <a href="https://github.com/TomSuzuki/markdown-wiki"><img height="80px" src="./img/14.gif" /></a>
+  <a href="https://tomsuzuki.github.io/"><img height="80px" src="./img/15.gif" /></a>
   <br>
   <img height="48px" src="./img/01.gif" />
   <!-- <img height="48px" src="./img/02.gif" /> -->
@@ -60,5 +60,5 @@
 #### link
 - [🍣 WebSite](https://tomsuzuki.github.io/)
 - [💬 GitHub Gist](https://gist.github.com/TomSuzuki)
-<!-- - [💙 Color Pallet](https://tomsuzuki.github.io/ColorPalette/) -->
+- [🎨 Color Pallet](https://tomsuzuki.github.io/ColorPalette/)
 <!-- - [📝 Today I Learned](https://tomsuzuki.github.io/til/) -->
