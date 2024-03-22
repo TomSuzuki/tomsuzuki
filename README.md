@@ -61,4 +61,5 @@
 - [🍣 WebSite](https://tomsuzuki.github.io/)
 - [💬 GitHub Gist](https://gist.github.com/TomSuzuki)
 - [🎨 Color Pallet](https://tomsuzuki.github.io/ColorPalette/)
+- [🎨 Color Pallet 2](https://github.com/TomSuzuki/ColorPallet2)
 <!-- - [📝 Today I Learned](https://tomsuzuki.github.io/til/) -->
