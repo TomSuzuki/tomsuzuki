@@ -48,11 +48,11 @@
   <img height="80px" src="./img/10.gif" />
   <img height="80px" src="./img/11.gif" />
   <img height="80px" src="./img/12.gif" />
-  <img height="80px" src="./img/13.gif" />
+  <!-- <img height="80px" src="./img/13.gif" /> -->
   <a href="https://github.com/TomSuzuki/markdown-wiki"><img height="80px" src="./img/14.gif" /></a>
   <a href="https://tomsuzuki.github.io/"><img height="80px" src="./img/15.gif" /></a>
   <br>
-  <img height="48px" src="./img/01.gif" />
+  <!-- <img height="48px" src="./img/01.gif" /> -->
   <!-- <img height="48px" src="./img/02.gif" /> -->
   <img height="48px" src="./img/03.gif" />
   <img height="48px" src="./img/04.gif" />
