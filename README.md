@@ -26,6 +26,7 @@
   -->
 </p>
 
+<!--
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=tomsuzuki&count_private=true&show_icons=true&hide_border=false&line_height=24&title_color=00B4E6&icon_color=00B4E6&border_color=EAEAEA&bg_color=FEFEFE&include_all_commits=true&hide_border=false">
@@ -37,7 +38,7 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TomSuzuki&line_height=28&layout=compact&hide_border=false&title_color=00B4E6&border_color=EAEAEA&bg_color=FEFEFE&hide_border=false">
   </a>
 </div>
-
+-->
 <br>
 
 <!-- <img src="https://github.com/TomSuzuki/tomsuzuki/blob/master/images/stat.svg" alt="Alternative Text"/> -->
@@ -62,6 +63,6 @@
 #### link
 - [🍣 WebSite](https://tomsuzuki.github.io/)
 - [💬 GitHub Gist](https://gist.github.com/TomSuzuki)
-- [🎨 Color Pallet](https://tomsuzuki.github.io/ColorPalette/)
-- [🎨 Color Pallet 2](https://tomsuzuki.github.io/ColorPalette2/)
+- [🎨 Color Pallet](https://tomsuzuki.github.io/ColorPalette2/)
+<!-- - [🎨 Color Pallet](https://tomsuzuki.github.io/ColorPalette/) -->
 <!-- - [📝 Today I Learned](https://tomsuzuki.github.io/til/) -->
